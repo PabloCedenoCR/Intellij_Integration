@@ -6,7 +6,7 @@ public class Main {
       System.out.println("Hello world");
       String[] values = {"hello", " ", "world"};
       for (String value : values) {
-        System.out.print(value);
+        System.out.print(value + " 1");
       }
     }
 }
